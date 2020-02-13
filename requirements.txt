@@ -17,7 +17,7 @@ django-filter==2.0.0
 django-js-asset==1.1.0
 django-mptt==0.9.1
 django-render-block==0.5
-django-sendgrid-v5==0.7.0
+django-sendgrid-v5==0.8.1
 django-six==1.0.4
 django-templated-email==2.2.0
 djangorestframework==3.8.2
